@@ -22,4 +22,3 @@ Open to fully remote roles worldwide and to EU relocation with visa sponsorship.
 ---
 
 ![Eldar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldardada&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eldardada&layout=compact&langs_count=8&hide=sass,scss,html,css,less)
