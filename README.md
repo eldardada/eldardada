@@ -17,6 +17,8 @@ Open to fully remote roles worldwide and to EU relocation with visa sponsorship.
 
 **Data & Infra** &nbsp; `PostgreSQL` · `Redis` · `Prisma` · `Drizzle` · `Docker` · `AWS` · `GitLab CI/CD`
 
+**Portfolio** &nbsp; [eldarda.com](https://eldarda.com)
+
 **Contact** &nbsp; eldar.dadashov16@gmail.com
 
 ---
